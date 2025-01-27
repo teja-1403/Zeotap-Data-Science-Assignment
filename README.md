@@ -1,5 +1,8 @@
 # Data Science Assignment: eCommerce Transactions Dataset
 
+## Zeotap
+Zeotap is a private company that provides a Customer Data Platform (CDP) to help brands manage customer data. Zeotap was founded in 2014 and is headquartered in Berlin, Germany. 
+
 ## Overview
 This repository contains the deliverables for the Data Science assignment focused on analyzing an eCommerce Transactions dataset. The goal of the project is to perform exploratory data analysis (EDA), build predictive models, and derive actionable insights to improve business strategy.
 
